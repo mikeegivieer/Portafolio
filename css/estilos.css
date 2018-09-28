@@ -63,6 +63,12 @@ h2{
 .project-url {
     margin: 10px 0;
 }
+.project-url a{
+    color: #026fff;
+}
+.project-url a:link{
+    text-decoration: none;
+}
 .projet-description{
     font-size: 20px;
 }
@@ -76,7 +82,8 @@ h2{
 }
 
 .project-details{
- width: 500px;   
+ width: 500px;  
+ margin-right: 15px;
 }
 .project-imageContainer{
     width: 500px;
@@ -244,4 +251,9 @@ figure{
     align-items: inherit;
     height: inherit;
     flex-wrap: inherit;
+}
+
+.prueba{
+    border: 1px solid red;
+    margin: 10px 11px 12px;
 }
