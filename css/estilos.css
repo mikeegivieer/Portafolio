@@ -496,6 +496,8 @@ figure img{
         /* text-align: center; */
         margin-left: auto;
         margin-right: auto;
+        margin-bottom: 30px;
+        margin-top: 0;
     }
     .project-details{
         /* width: auto; */
