@@ -340,7 +340,7 @@ figure img{
             height: auto;
             position: relative;
             overflow: hidden;
-            padding: 2em;
+            /* padding: 2em; */
         }
         .hero-image{
             /* position: absolute;
@@ -563,7 +563,7 @@ figure img{
          /* background: rgba(0, 0, 0, .5); */
      }
      .hero{
-         padding: 2em 1em;
+         /* padding: 2em 1em; */
      }
      .container{
        display: block;
