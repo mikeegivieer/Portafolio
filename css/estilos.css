@@ -76,7 +76,7 @@ h2{
     object-fit: cover;
     border-radius: 50% 50%;
     margin: 20px 30px;
-    border: 5px solid #2a6ec6;
+    
     
 }
 .portfolio{
@@ -266,6 +266,10 @@ figure img{
 
 .social-link.github {
     background-image: url('../images/github.svg');
+}
+
+.social-link.linkedin {
+    background-image: url('../images/linkedin.png');
 }
 
 .social-link.instagram {
